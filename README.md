@@ -20,16 +20,19 @@ Here are some ideas to get you started:
 </div>
 
 
-<div id="badges" align="center">
+<div id="badges" align="center" >
   <a href="https://www.linkedin.com/in/danil-losev/">
     <img src="https://img.shields.io/badge/LikedIn-1439d0?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
+   
   <a href="https://www.reddit.com/user/Danil_Losev/">
     <img src="https://img.shields.io/badge/Reddit-d81c1e?logo=Reddit&logoColor=white&style=for-the-badge" alt="Reddit Badge"/>
   </a>
+  
   <a href="https://x.com/Dan_the_SkiPPer">
     <img src="https://img.shields.io/badge/X-grey?logo=X&logoColor=white&style=for-the-badge" alt="X Badge"/>
   </a>
+   
   <a href="https://vk.com/smartburito">
     <img src="https://img.shields.io/badge/vKontakte-254dea?logo=Vk&logoColor=white&style=for-the-badge" alt="Vk Badge"/>
   </a>
@@ -38,3 +41,10 @@ Here are some ideas to get you started:
 <div id="info" align="center">
 <img src="https://komarev.com/ghpvc/?username=Danil-SkiPPer&color=brightgreen&style=flat-square&label=PROFILE+VIEWS&abbreviated=true" alt=""/>
 </div>
+
+
+
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
