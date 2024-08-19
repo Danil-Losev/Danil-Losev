@@ -1,18 +1,5 @@
 
-<!--
-**Danil-SkiPPer/Danil-SkiPPer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- **Danil-SkiPPer/Danil-SkiPPer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
 <div id="header" align="center">
@@ -84,6 +71,34 @@ I`m a student 👨‍🎓 from Kyrgyzstan
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Danil-SkiPPer&theme=soft-green&border_radius=6&date_format=j%20M%5B%20Y%5D&card_width=600)](https://git.io/streak-stats)
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=Danil-SkiPPer&theme=transparent&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=1000&hide_border=true&"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danil-SkiPPer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<a href=""><img src="https://github-readme-activity-graph.vercel.app/graph?username=Danil-SkiPPer&theme=github-compact&area=true&area_color=22ba11"/></a>
+</div>
+
+
+<div align="center">
+ <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danil-SkiPPer&layout=compact&theme=merko&langs_count=10"/></a>
+ <a href=""><img src="https://github-readme-stats.vercel.app/api/wakatime?username=SkiPPerTheDan&layout=compact&theme=merko&langs_count=10"/></a>
+</div>
+
+
+<div>
+  <a>
+    <img src="https://github-profile-trophy.vercel.app/?username=Danil-SkiPPer&no-bg=true&theme=juicyfresh&column=10"/>
+  </a>
+</div>
+
+
+---
+
+<div>
+  <a>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true"/>
+  </a>
+</div>
+
+
