@@ -86,4 +86,4 @@ I`m a student 👨‍🎓 from Kyrgyzstan
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Danil-SkiPPer&theme=soft-green&border_radius=6&date_format=j%20M%5B%20Y%5D&card_width=600)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danil-SkiPPer)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danil-SkiPPer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
