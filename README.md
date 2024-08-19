@@ -22,26 +22,26 @@ Here are some ideas to get you started:
 
 <div id="badges" align="center" >
   <a href="https://www.linkedin.com/in/danil-losev/">
-    <img src="https://img.shields.io/badge/LikedIn-1439d0?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
+    <img src="https://img.shields.io/badge/LikedIn-1439d0?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/> 
+  </a> 
    
   <a href="https://www.reddit.com/user/Danil_Losev/">
-    <img src="https://img.shields.io/badge/Reddit-d81c1e?logo=Reddit&logoColor=white&style=for-the-badge" alt="Reddit Badge"/>
-  </a>
+    <img src="https://img.shields.io/badge/Reddit-d81c1e?logo=Reddit&logoColor=white&style=for-the-badge" alt="Reddit Badge"/> 
+  </a> 
   
   <a href="https://x.com/Dan_the_SkiPPer">
-    <img src="https://img.shields.io/badge/X-grey?logo=X&logoColor=white&style=for-the-badge" alt="X Badge"/>
-  </a>
+    <img src="https://img.shields.io/badge/X-grey?logo=X&logoColor=white&style=for-the-badge" alt="X Badge"/> 
+  </a> 
    
   <a href="https://vk.com/smartburito">
-    <img src="https://img.shields.io/badge/vKontakte-254dea?logo=Vk&logoColor=white&style=for-the-badge" alt="Vk Badge"/>
-  </a>
+    <img src="https://img.shields.io/badge/vKontakte-254dea?logo=Vk&logoColor=white&style=for-the-badge" alt="Vk Badge"/> 
+  </a> 
 </div>
 
 <div id="info" align="center">
 <img src="https://komarev.com/ghpvc/?username=Danil-SkiPPer&color=brightgreen&style=flat-square&label=PROFILE+VIEWS&abbreviated=true" alt=""/>
 <a href="https://wakatime.com/@aa09e045-9241-455f-a7ed-3b0b87d5fc64"><img src="https://wakatime.com/badge/user/aa09e045-9241-455f-a7ed-3b0b87d5fc64.svg" alt="Total time coded since Jul 7 2024" /></a>
-</div>
+</div> 
 
 
 
@@ -70,14 +70,20 @@ I`m a student 👨‍🎓 from Kyrgyzstan
 ### :hammer_and_wrench: Languages and Tools :
 
 
-<div id="languages">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/tree/master/icons/cmake/cmake-plain-wordmark.svg" title="Cmake" **alt="Cmake" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/tree/master/icons/neovim/neovim-original.svg" title="NeoVim" **alt="NeoVim" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/tree/master/icons/powershell/powershell-original.svg" title="PowerShell" **alt="PowerShell" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/tree/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/tree/master/icons/clion/clion-original-wordmark.svg" title="CLion" **alt="Clion" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/tree/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="Cmake" alt="Cmake" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="NeoVim" alt="NeoVim" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="CLion" alt="Clion" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Danil-SkiPPer&theme=soft-green&border_radius=6&date_format=j%20M%5B%20Y%5D&card_width=600)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danil-SkiPPer)](https://github.com/anuraghazra/github-readme-stats)
