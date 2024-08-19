@@ -80,25 +80,9 @@ I`m a student 👨‍🎓 from Kyrgyzstan
 <div align="center">
    <a href=""><img src="https://github-readme-stats.vercel.app/api?username=Danil-SkiPPer&show_icons=true&theme=transparent&border_color=0C90EB&border_radius=6&card_width=1000&rank_icon=github"  /></a>
  <a href=""><img src="https://streak-stats.demolab.com?user=Danil-SkiPPer&theme=transparent&border_radius=6&date_format=j%20M%5B%20Y%5D&card_width=1000&card_height=200&fire=FF801D&border=0C90EB" alt="GitHub Streak" /></a>
-</div>
-
-<div>
-<a href=""><img src="https://github-readme-activity-graph.vercel.app/graph?username=Danil-SkiPPer&theme=github-compact&area=true&area_color=22ba11"/></a>
-</div>
-
-
-
-
-
-
-
-
----
-
-<div>
-  <a>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true"/>
-  </a>
+  <a href=""><img src="https://github-readme-activity-graph.vercel.app/graph?username=Danil-SkiPPer&theme=github-compact&area=true&radius=6&color=0C90EB&line=109aff&area_color=1080d6"/></a>
+  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danil-SkiPPer&layout=compact&&langs_count=10&card_width=1000&theme=transparent&border_color=0C90EB&border_radius=6" alt="" /></a>
+  <a href=""><img src="https://github-readme-stats.vercel.app/api/wakatime?username=SkiPPerTheDan&theme=transparent&border_color=0C90EB&border_radius=6" alt="" /></a>
 </div>
 
 
