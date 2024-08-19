@@ -1,12 +1,10 @@
 
 <!-- **Danil-SkiPPer/Danil-SkiPPer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-
 <div id="header" align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZyY2EwaTJ5OW4ybDNwMXdyaDkwd3F6b3J4NnZmbTU0cW41NDhjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
+  <div><a><img src="https://github.com/ergovind08/AdityaKumar28/blob/main/animation.gif"/></a></div>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=&weight=600&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Hey!++It%60s+Danil+Losev++%F0%9F%91%8B;Nice+to+meet+you!+;I%60m+a+C%2B%2B+Software+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I%60m+from+Kyrgyzstan+" alt="Typing SVG" /></a>
 </div>
-
-
 <div id="badges" align="center" >
   <a href="https://www.linkedin.com/in/danil-losev/">
     <img src="https://img.shields.io/badge/LikedIn-1439d0?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/> 
@@ -25,25 +23,15 @@
   </a> 
 </div>
 
-<div id="info" align="center">
-<img src="https://komarev.com/ghpvc/?username=Danil-SkiPPer&color=brightgreen&style=flat-square&label=PROFILE+VIEWS&abbreviated=true" alt=""/>
-<a href="https://wakatime.com/@aa09e045-9241-455f-a7ed-3b0b87d5fc64"><img src="https://wakatime.com/badge/user/aa09e045-9241-455f-a7ed-3b0b87d5fc64.svg" alt="Total time coded since Jul 7 2024" /></a>
-</div> 
-
-
-
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWswZ3VjeXR4eWFxZXpkMDF2cmk0dTY2OWM2Nms2OHNiOGVjczRwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
+  <a>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </a>
+  <h1 align="center">
+  👨‍💻 About Me 
+  </h1>
 </div>
-
-### 👨‍💻 About Me :
 
 I`m a student 👨‍🎓 from Kyrgyzstan
 - 👨 I`m 19 years old
@@ -52,11 +40,15 @@ I`m a student 👨‍🎓 from Kyrgyzstan
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Danil_Losev-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danil-losev/)
 
 
----
 
-### :hammer_and_wrench: Languages and Tools :
-
-
+<div align="center">
+  <a>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </a>
+  <h1 align="center">
+  🛠️ Languages and Tools
+</h1>
+</div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -69,10 +61,25 @@ I`m a student 👨‍🎓 from Kyrgyzstan
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
+
 
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=Danil-SkiPPer&theme=transparent&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=1000&hide_border=true&"/>
+  <a>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </a>
+  <h1 align="center">
+  🔥 My Stats
+</h1>
+</div>
+
+<div id="info" align="center">
+<img src="https://komarev.com/ghpvc/?username=Danil-SkiPPer&color=brightgreen&style=flat-square&label=PROFILE+VIEWS&abbreviated=true" alt=""/>
+<a href="https://wakatime.com/@aa09e045-9241-455f-a7ed-3b0b87d5fc64"><img src="https://wakatime.com/badge/user/aa09e045-9241-455f-a7ed-3b0b87d5fc64.svg" alt="Total time coded since Jul 7 2024" /></a>
+</div> 
+
+<div align="center">
+   <a href=""><img src="https://github-readme-stats.vercel.app/api?username=Danil-SkiPPer&show_icons=true&theme=transparent&border_color=0C90EB&border_radius=6&card_width=1000&rank_icon=github"  /></a>
+ <a href=""><img src="https://streak-stats.demolab.com?user=Danil-SkiPPer&theme=transparent&border_radius=6&date_format=j%20M%5B%20Y%5D&card_width=1000&card_height=200&fire=FF801D&border=0C90EB" alt="GitHub Streak" /></a>
 </div>
 
 <div>
@@ -80,17 +87,10 @@ I`m a student 👨‍🎓 from Kyrgyzstan
 </div>
 
 
-<div align="center">
- <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danil-SkiPPer&layout=compact&theme=merko&langs_count=10"/></a>
- <a href=""><img src="https://github-readme-stats.vercel.app/api/wakatime?username=SkiPPerTheDan&layout=compact&theme=merko&langs_count=10"/></a>
-</div>
 
 
-<div>
-  <a>
-    <img src="https://github-profile-trophy.vercel.app/?username=Danil-SkiPPer&no-bg=true&theme=juicyfresh&column=10"/>
-  </a>
-</div>
+
+
 
 
 ---
