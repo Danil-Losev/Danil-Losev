@@ -1,5 +1,5 @@
 
-<!-- **Danil-SkiPPer/Danil-SkiPPer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **Danil-Losev/Danil-Losev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!--<div id="image" align="center">
   <pre id="tiresult" style="font-size: 9px; background-color: #000000; font-weight: bold; padding: 4px 5px; --fs: 9px;"><b style="color:#081414">01</b><b style="color:#081515">0110</b><b style="color:#081414">001001110</b><b style="color:#081412">11</b><b style="color:#081413">1</b><b style="color:#081414">10110001010000111011111101100111</b><b style="color:#081412">00</b><b style="color:#081413">0</b><b style="color:#081414">01000101011010</b><b style="color:#081413">1</b><b style="color:#081412">000010100</b><b style="color:#081313">1</b><b style="color:#081314">10</b><b style="color:#081414">1111110110100111110000111001001100100010100001111110111011100110101101</b><b style="color:#081412">0101000</b><b style="color:#081413">0</b><b style="color:#081414">0</b><b style="color:#071313">0</b>
 <b style="color:#081414">1</b><b style="color:#081515">11111001001101</b><b style="color:#081514">010</b><b style="color:#081515">10111010000100100001011100101100</b><b style="color:#081514">1100</b><b style="color:#081414">1</b><b style="color:#081413">10000001100</b><b style="color:#081513">00</b><b style="color:#091413">1010111000011</b><b style="color:#091412">111011</b><b style="color:#081413">0</b><b style="color:#081414">0</b><b style="color:#081515">011</b><b style="color:#081414">101</b><b style="color:#081412">011</b><b style="color:#081413">11</b><b style="color:#081412">011</b><b style="color:#081512">1</b><b style="color:#081412">10100001110001</b><b style="color:#081413">0110101</b><b style="color:#081412">00100</b><b style="color:#081413">0100100100</b><b style="color:#081412">100</b><b style="color:#081413">0001011</b><b style="color:#081412">001</b><b style="color:#081512">0</b><b style="color:#081513">0</b><b style="color:#081512">10</b><b style="color:#081412">0</b><b style="color:#081413">01</b>
@@ -159,15 +159,15 @@ I`m a student 👨‍🎓 from Kyrgyzstan
 </div>
 
 <div id="info" align="center">
-<img src="https://komarev.com/ghpvc/?username=Danil-SkiPPer&color=brightgreen&style=flat-square&label=PROFILE+VIEWS&abbreviated=true" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Danil-Losev&color=brightgreen&style=flat-square&label=PROFILE+VIEWS&abbreviated=true" alt=""/>
 <a href="https://wakatime.com/@aa09e045-9241-455f-a7ed-3b0b87d5fc64"><img src="https://wakatime.com/badge/user/aa09e045-9241-455f-a7ed-3b0b87d5fc64.svg" alt="Total time coded since Jul 7 2024" /></a>
 </div> 
 
 <div align="center">
-   <a href=""><img src="https://github-readme-stats.vercel.app/api?username=Danil-SkiPPer&show_icons=true&theme=transparent&border_color=0C90EB&border_radius=6&card_width=1000&rank_icon=github"  /></a>
- <a href=""><img src="https://streak-stats.demolab.com?user=Danil-SkiPPer&theme=transparent&border_radius=6&date_format=j%20M%5B%20Y%5D&card_width=1000&card_height=200&fire=FF801D&border=0C90EB" alt="GitHub Streak" /></a>
-  <a href=""><img src="https://github-readme-activity-graph.vercel.app/graph?username=Danil-SkiPPer&theme=github-compact&area=true&radius=6&color=0C90EB&line=109aff&area_color=1080d6"/></a>
-  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danil-SkiPPer&layout=compact&&langs_count=10&card_width=1000&theme=transparent&border_color=0C90EB&border_radius=6" alt="" /></a>
+   <a href=""><img src="https://github-readme-stats.vercel.app/api?username=Danil-Losev&show_icons=true&theme=transparent&border_color=0C90EB&border_radius=6&card_width=1000&rank_icon=github"  /></a>
+ <a href=""><img src="https://streak-stats.demolab.com?user=Danil-Losev&theme=transparent&border_radius=6&date_format=j%20M%5B%20Y%5D&card_width=1000&card_height=200&fire=FF801D&border=0C90EB" alt="GitHub Streak" /></a>
+  <a href=""><img src="https://github-readme-activity-graph.vercel.app/graph?username=Danil-Losev&theme=github-compact&area=true&radius=6&color=0C90EB&line=109aff&area_color=1080d6"/></a>
+  <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danil-Losev&layout=compact&&langs_count=10&card_width=1000&theme=transparent&border_color=0C90EB&border_radius=6" alt="" /></a>
   <a href=""><img src="https://github-readme-stats.vercel.app/api/wakatime?username=SkiPPerTheDan&theme=transparent&border_color=0C90EB&border_radius=6" alt="" /></a>
 </div>
 
