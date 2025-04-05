@@ -84,8 +84,13 @@
 </pre>
 </div>
 -->
-
-
+<div id="header" align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danil-Losev/Danil-Losev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danil-Losev/Danil-Losev/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Danil-Losev/Danil-Losev/output/github-snake.svg" />
+</picture>
+</div>
 
 <div id="header" align="center">
   <div><a><img src="https://github.com/ergovind08/AdityaKumar28/blob/main/animation.gif"/></a></div>
