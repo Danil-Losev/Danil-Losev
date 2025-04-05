@@ -162,7 +162,13 @@ I`m a student 👨‍🎓 from Kyrgyzstan
   🔥 My Stats
 </h1>
 </div>
-
+<div id="header" align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danil-Losev/Danil-Losev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Danil-Losev/Danil-Losev/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Danil-Losev/Danil-Losev/output/github-snake.svg" />
+</picture>
+</div>
 <div id="info" align="center">
 <img src="https://komarev.com/ghpvc/?username=Danil-Losev&color=brightgreen&style=flat-square&label=PROFILE+VIEWS&abbreviated=true" alt=""/>
 <a href="https://wakatime.com/@aa09e045-9241-455f-a7ed-3b0b87d5fc64"><img src="https://wakatime.com/badge/user/aa09e045-9241-455f-a7ed-3b0b87d5fc64.svg" alt="Total time coded since Jul 7 2024" /></a>
