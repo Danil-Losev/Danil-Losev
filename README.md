@@ -90,9 +90,7 @@
 </div>
 
 
-<div id="header" align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=&weight=600&size=30&pause=500&center=true&vCenter=true&width=600&lines=Hey!++It%60s+Danil+Losev++%F0%9F%91%8B;Nice+to+meet+you!+;I%60m+a+C%2B%2B+Software+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I%60m+from+Kyrgyzstan+" alt="Typing SVG" /></a>
-</div>
+
 <div id="badges" align="center" >
   <a href="https://www.linkedin.com/in/danil-losev/">
     <img src="https://img.shields.io/badge/LikedIn-1439d0?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/> 
@@ -140,12 +138,12 @@ I`m a student 👨‍🎓 from Kyrgyzstan
 <a href="https://wakatime.com/@aa09e045-9241-455f-a7ed-3b0b87d5fc64"><img src="https://wakatime.com/badge/user/aa09e045-9241-455f-a7ed-3b0b87d5fc64.svg" alt="Total time coded since Jul 7 2024" /></a>
 </div> 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Danil-Losev?theme=nord)
 <div align="center">
    <a href=""><img src="https://github-readme-stats.vercel.app/api?username=Danil-Losev&show_icons=true&theme=transparent&border_color=0C90EB&border_radius=6&card_width=1000&rank_icon=github"  /></a>
    <a href=""><img src="https://streak-stats.demolab.com?user=Danil-Losev&theme=transparent&border_radius=6&date_format=j%20M%5B%20Y%5D&card_width=1000&card_height=200&fire=FF801D&border=0C90EB" /></a>
   <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danil-Losev&layout=compact&&langs_count=10&card_width=1000&theme=transparent&border_color=0C90EB&border_radius=6" /></a>
   <a href=""><img src="https://github-readme-stats.vercel.app/api/wakatime?username=SkiPPerTheDan&theme=transparent&border_color=0C90EB&border_radius=6" /></a>
+  <a href=""><img src="https://leetcard.jacoblin.cool/Danil-Losev?theme=nord" /></a>
 </div>
 
 
