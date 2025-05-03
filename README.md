@@ -111,9 +111,7 @@
 
 
 <div align="center">
-  <a>
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  </a>
+  <br></br>
   <h1 align="center">
   👨‍💻 About Me 
   </h1>
@@ -127,9 +125,7 @@ I`m a student 👨‍🎓 from Kyrgyzstan
 
 
 <div align="center">
-  <a>
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  </a>
+  <br></br>
   <h1 align="center">
   🔥 My Stats
 </h1>
@@ -139,11 +135,10 @@ I`m a student 👨‍🎓 from Kyrgyzstan
 </div> 
 
 <div align="center">
-   <a href=""><img src="https://github-readme-stats.vercel.app/api?username=Danil-Losev&show_icons=true&theme=transparent&border_color=0C90EB&border_radius=6&card_width=1000&rank_icon=github"  /></a>
    <a href=""><img src="https://streak-stats.demolab.com?user=Danil-Losev&theme=transparent&border_radius=6&date_format=j%20M%5B%20Y%5D&card_width=1000&card_height=200&fire=FF801D&border=0C90EB" /></a>
+   <a href=""><img src="https://github-readme-stats.vercel.app/api?username=Danil-Losev&show_icons=true&theme=transparent&border_color=0C90EB&border_radius=6&card_width=1000&rank_icon=github"  /></a>
   <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danil-Losev&layout=compact&&langs_count=10&card_width=1000&theme=transparent&border_color=0C90EB&border_radius=6" /></a>
   <a href=""><img src="https://github-readme-stats.vercel.app/api/wakatime?username=SkiPPerTheDan&theme=transparent&border_color=0C90EB&border_radius=6" /></a>
-  <a href=""><img src="https://leetcard.jacoblin.cool/Danil-Losev?theme=nord" /></a>
 </div>
 
 
