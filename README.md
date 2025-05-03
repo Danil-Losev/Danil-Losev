@@ -86,6 +86,11 @@
 -->
 
 <div id="header" align="center">
+  <a href=""><img src="https://github.com/Danil-Losev/Danil-Losev/blob/main/saved/var3up.png" alt="Lable" /></a>
+</div>
+
+
+<div id="header" align="center">
   <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=&weight=600&size=30&pause=500&center=true&vCenter=true&width=600&lines=Hey!++It%60s+Danil+Losev++%F0%9F%91%8B;Nice+to+meet+you!+;I%60m+a+C%2B%2B+Software+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I%60m+from+Kyrgyzstan+" alt="Typing SVG" /></a>
 </div>
 <div id="badges" align="center" >
